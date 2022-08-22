@@ -1,1 +1,1 @@
-this is my first reop
+this is my first repository 
